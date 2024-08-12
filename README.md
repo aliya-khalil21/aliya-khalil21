@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aaliya Khalil</h1>
-<h3 align="center">A passionate student of BS Computer Science from UET Lahore.</h3>
+<h3 align="center">An enthusiastic BS Computer Science student from UET Lahore.</h3>
+
 
 
 - 🔭 I’m currently working on **Web Development.**
