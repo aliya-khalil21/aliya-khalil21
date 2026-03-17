@@ -3,7 +3,6 @@
 <h3 align="center">An enthusiastic BS Computer Science student from UET Lahore.</h3>
 
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=aliya-khalil21)
 - 🔭 I’m currently working on **Web Development.**
 
 - 🌱 I’m currently learning ** MERN Stack ,Full stack.**
